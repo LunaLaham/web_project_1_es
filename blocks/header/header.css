@@ -1,28 +1,22 @@
-@import url(__logo/header__logo.css);
-@import url(__link/header__link.css);
-@import url(__title/header__title.css);
-@import url(__subtitle/header__subtitle.css);
-@import url(__square/header__square.css);
-
 .header {
-    background-color: #F2F2F2;
-    height: 100vh;
-    min-height: 600px;
-    max-height: 756px;
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    position: relative;
-    /* parameters for the header section */
-    overflow: hidden;
+  background-color: #F2F2F2;
+  height: 100vh;
+  min-height: 600px;
+  max-height: 756px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  position: relative;
+  /* parameters for the header section */
+  overflow: hidden;
 }
   
 .main-ilustration{
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    width: 756px;
-    height: 608px;
-    object-fit: cover;
-    z-index: 1;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: 756px;
+  height: 608px;
+  object-fit: cover;
+  z-index: 1;
 }

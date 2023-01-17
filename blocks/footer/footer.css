@@ -1,20 +1,17 @@
-@import url(__columns/footer__columns.css);
-@import url(__logo/footer__logo.css);
+.footer{
+  margin-bottom: 40px;
+} 
 
-
-  .footer{
-    margin-bottom: 40px;
-  } 
-  .footer__author{
-    line-height: 25px;
-    font-size: 18px;
-    font-weight: normal;
-    color: white;
-    padding-left: 10px;
-    margin: 0;
-    margin-top: 18px;
-    margin-bottom: 18px;
-    position: absolute;
-    bottom: 0;
-  }
+.footer__author{
+  line-height: 25px;
+  font-size: 18px;
+  font-weight: normal;
+  color: white;
+  padding-left: 10px;
+  margin: 0;
+  margin-top: 18px;
+  margin-bottom: 18px;
+  position: absolute;
+  bottom: 0;
+}
   
