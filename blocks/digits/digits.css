@@ -1,0 +1,14 @@
+@import url(__title/digits__title.css);
+@import url(__subtitle/digits__subtitle.css);
+@import url(__table/digits__table.css);
+
+.digits{
+    margin: 0;
+    padding: 0;
+    margin-top: 70px;
+}
+
+ul{
+    list-style: none;
+    flex-wrap: wrap;
+}

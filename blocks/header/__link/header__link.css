@@ -1,0 +1,9 @@
+.header__link{
+    margin-left: 64px;
+    color: #2F80ED;
+    text-decoration: none;
+  }
+  .header__link:hover{
+    color: grey;
+    transition:background-color 0.5s;
+  }

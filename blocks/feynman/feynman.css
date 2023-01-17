@@ -1,0 +1,20 @@
+@import url(__title/feynman__title.css);
+@import url(__subtitle/feynman__subtitle.css);
+@import url(__link/feynman__link.css);
+@import url(__image/feynman__image.css);
+
+.feynman{
+  background-color: #F2F2F2;
+  margin: 0;
+  padding: 0;
+  margin-top: 100px;
+  display: flex;
+  justify-content: center;
+  height: 790px;
+  width: 100%;
+  position: relative; 
+}
+
+.feynman__titulos {
+  z-index: 1;
+}

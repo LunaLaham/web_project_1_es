@@ -1,0 +1,15 @@
+.section-subtitle{  
+    display: flex;
+    justify-content: center;
+    margin-bottom: 60px;
+  }
+  .section-subtitle h4{
+    display: flex;
+    justify-content: center;
+    width: 60%;
+    font-size: 24px;
+    font-weight: normal;
+    line-height: 34px;
+    padding: 0;
+    margin: 0;
+  }

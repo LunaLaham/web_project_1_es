@@ -1,0 +1,15 @@
+.section-subtitle_theme_dark{
+    display: flex;
+    justify-content: center;  
+}
+
+.section-subtitle_theme_dark h5{
+    font-size: 24px;
+    font-weight: normal;
+    color: white;
+    line-height: 34px;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    margin-top: 20px;
+}
