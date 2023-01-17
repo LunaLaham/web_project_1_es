@@ -1,24 +1,22 @@
-
-
 .cards{
-    width: 1020px;
-    margin-left: auto;
-    margin-right: auto;
-    display: flex;  
-    padding: 0;
-  }
+  width: 1020px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  padding: 0;
+}
   
-  .cards-item{
-    width: 240px;  
-    margin-bottom: 60px;
-    padding: 0px;
-    margin-left: 50px;
-    margin-right: 50px; 
-  }
+.cards-item{
+  width: 240px;
+  margin-bottom: 60px;
+  padding: 0px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
   
-  .espacio{
-    height: 60px;  
-  }
+.espacio{
+  height: 60px;
+}
   
   .cards-image{
     margin: 0;

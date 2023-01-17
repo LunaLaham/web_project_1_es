@@ -7,12 +7,12 @@
     height: 568px;
     width: 568px;
     background-color:  #2F80ED;
-    transform: rotate(-15deg);     
+    transform: rotate(-15deg);
     animation-name: rotacion;
     animation-duration: 20s;
     animation-delay: 500ms;
     animation-iteration-count: infinite;
-    animation-timing-function: linear;    
+    animation-timing-function: linear;  
 }
   
 .header__square-pic {
