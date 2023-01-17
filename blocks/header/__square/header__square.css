@@ -1,26 +1,24 @@
-@import url(../__rotacion/header__rotacion.css);
-
 .header__square{
-    position: absolute;
-    right: 0;
-    top: 64px;
-    height: 568px;
-    width: 568px;
-    background-color:  #2F80ED;
-    transform: rotate(-15deg);
-    animation-name: rotacion;
-    animation-duration: 20s;
-    animation-delay: 500ms;
-    animation-iteration-count: infinite;
-    animation-timing-function: linear;  
+  position: absolute;
+  right: 0;
+  top: 64px;
+  height: 568px;
+  width: 568px;
+  background-color:  #2F80ED;
+  transform: rotate(-15deg);
+  animation-name: rotacion;
+  animation-duration: 20s;
+  animation-delay: 500ms;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
 }
   
 .header__square-pic {
-    height: 568px;
-    width: 568px;
-    position: absolute;
-    z-index: 5;
-    display: flex;
-    margin-right: 64px;
-    margin-top: 30px;
+  height: 568px;
+  width: 568px;
+  position: absolute;
+  z-index: 5;
+  display: flex;
+  margin-right: 64px;
+  margin-top: 30px;
 }
