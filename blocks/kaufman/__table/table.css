@@ -1,0 +1,14 @@
+@import url(../__table/__cell/__theme/kaufman__table__cell_theme_dark.css);
+@import url(../__table/__heading/__theme/kaufman__table__heading_theme_dark.css);
+@import url(../__table/__text/__theme/kaufman__table__text_theme_dark.css);
+
+
+.table_theme_dark{
+    width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+    margin-bottom: 90px;
+  }
