@@ -48,3 +48,7 @@
 @import url(blocks/khan/__link/khan__link.css);
 
 @import url(blocks/techniques/__cards/techniques__cards.css);
+
+@import url(blocks/kaufman/__table/__cell/__theme/kaufman__table__cell_theme_dark.css);
+@import url(blocks/kaufman/__table/__heading/__theme/kaufman__table__heading_theme_dark.css);
+@import url(blocks/kaufman/__table/__text/__theme/kaufman__table__text_theme_dark.css);
