@@ -17,7 +17,7 @@
 @import url(blocks/description/__columns/description__columns.css);
 
 @import url(blocks/digits/__title/digits__title.css);
-@import url(blocks/digits/__subtitle/digits__subtitle.css);
+@import url(blocks/digits/__subtitle/digits__subtitle.css);  /*esta linea cuando la quito se arregla la tabla  checar*/
 @import url(blocks/digits/__table/digits__table.css);
 
 @import url(blocks/feynman/__title/feynman__title.css);
@@ -49,6 +49,7 @@
 
 @import url(blocks/techniques/__cards/techniques__cards.css);
 
-@import url(blocks/kaufman/__table/__cell/__theme/kaufman__table__cell_theme_dark.css);
-@import url(blocks/kaufman/__table/__heading/__theme/kaufman__table__heading_theme_dark.css);
-@import url(blocks/kaufman/__table/__text/__theme/kaufman__table__text_theme_dark.css);
+@import url(blocks/table/__theme/table_theme_dark.css);
+@import url(blocks/table/__cell/_theme/table_cell_theme_dark.css);
+@import url(blocks/table/__heading/_theme/table__heading_theme_dark.css);
+@import url(blocks/table/__text/_theme/table__text_theme_dark.css);
