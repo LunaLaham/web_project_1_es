@@ -27,9 +27,11 @@
     line-height: 30px;
     font-size: 18px;
     font-weight: normal;
-    color: white;
     text-align: left;
     padding: 0;
+    list-style: none;
+   
+
   }
   .footer__column-content-social{
     color: white;
@@ -43,4 +45,7 @@
     margin: 0;
     padding: 0;
     margin-left: 10px;
+  }
+  .footer__social-icons a{
+    color: grey;
   }
